@@ -2,13 +2,12 @@
   "id": "xzthemeofsss/quote-notes",
   "artifact": {
     "kind": "git",
-    "remote": "https://github.com/xzthemeofsss/paseo-quote-notes.git",
-    "commit": "ac323fb632c0197ea5eb4681f5b448342f684d05",
-    "tag": "v0.1.1"
+    "remote": "https://github.com/xzthemeofsss/paseo-codex-style-annotations.git",
+    "commit": "b408626f744bcd4944301b452ad5c6af104d4cc4"
   },
   "repository": {
-    "url": "https://github.com/xzthemeofsss/paseo-quote-notes",
-    "commit": "ac323fb632c0197ea5eb4681f5b448342f684d05"
+    "url": "https://github.com/xzthemeofsss/paseo-codex-style-annotations",
+    "commit": "b408626f744bcd4944301b452ad5c6af104d4cc4"
   },
   "categories": [
     "workspaces",
@@ -17,5 +16,5 @@
   "submittedAt": "2026-10-18T12:00:11Z",
   "submittedBy": "xzthemeofsss",
   "publishedAt": "2026-10-18T12:02:13Z",
-  "reviewedAt": "2026-10-18T13:32:43Z"
+  "reviewedAt": "2026-10-19T05:38:29Z"
 }
